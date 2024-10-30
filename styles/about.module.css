@@ -1,0 +1,61 @@
+.top {
+    height: 450px;
+    width: 1100px;
+    background-image: url('https://cdn.pixabay.com/photo/2021/11/15/05/25/boutique-6796399_1280.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 130px;
+    padding-right: 130px;
+
+}
+.h1 {
+    font-size: 150px;  
+    color: rgb(234 88 12);
+    text-align: center;
+    font-family: serif;
+}
+
+.div1 {
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+    gap: 36px ;
+    background-color: rgb(241 245 249 );
+
+
+}
+
+.div2 {
+    height: 450px;
+    width: 450px;
+
+}
+
+.h3{
+    font-size: 30px;
+    margin-top: 30px;
+    font-weight: bold;
+}
+.p {
+    color: rgb(40 41 34 );
+    margin-top: 10px;
+    margin-bottom: 10px; 
+}
+
+.h2{
+    font-size: 20px;
+    font-weight: bold;
+}
+.h4 {
+    color: rgb(234 88 12);
+    font-weight: bold;
+    margin-top: 15px;
+}
+.img {
+    height: 380px; 
+    margin-top: 30px;
+    border-radius: 20px;
+}

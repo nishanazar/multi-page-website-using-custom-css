@@ -1,0 +1,48 @@
+
+.main {
+    height: 330px;
+    background-color: black;
+    display: flex;
+    justify-content: center; /* Corrected this line */
+    gap: 56px;
+    color: rgb(107 114 128);
+}
+
+.leftcontect {
+    height: 200px;
+    width: 200px;
+    margin-top: 40px;
+
+}
+.h2 {
+    font-size: 35px;
+}
+.textwhite {
+    color: white;
+
+}
+ .text {
+    color: white;
+    font-size: 22px;
+ }
+
+ .icon {
+    display: flex;
+    gap: 15px;
+ }
+
+.h3 {
+    font-size: 17px;
+    margin-top: 10px;
+}
+
+.input {
+    border-radius: 16px;
+    height: 35px;
+    margin-top: 8px;
+   
+}
+
+.ul {
+    list-style: none;
+}
